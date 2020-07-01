@@ -1,0 +1,128 @@
+body {
+  font-family: 'Poppins';font-size: 22px;
+  margin: 0px;
+}
+h1{
+  font-size: 40px;
+}
+.highlight{
+  color: #cf1e42;
+}
+.half-width{
+  width: 40%;
+  float: left;
+  height: 100%;
+  margin-left: 5px;
+  padding-left: 10px;
+
+}
+.half-width img{
+  width: 100%;
+ 
+ 
+}
+section{
+  padding-bottom: 100px;
+  height: 750px;
+}
+.header{
+  background-image: url("image/header-bg.png");
+  
+  background-position: left;
+
+}
+.header-para{
+  padding-left: 200px;
+ padding-top: 100px;
+}
+.link-button{
+  text-decoration: none;
+ 
+  padding: 8px 25px;
+  background-color: #d81497;
+  color: white;
+  background-image: linear-gradient(45deg, tomato orange);
+  border-radius: 5px;
+  
+}
+p{
+  font-size: 20px;
+  color: dimgrey;
+}
+.biography{
+  background-image: url("image/biography-bg.png")
+  ; 
+  background-repeat: no-repeat;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 850px;
+ 
+}
+
+#bio-img{
+  padding-left: 10%;
+}
+.bio{
+  padding-top: 220px;
+  padding-bottom: 20px;
+}
+
+.biography CV{
+  top: 70px;
+}
+
+
+
+#work-title{
+  text-align: center;
+  padding-right: 200px;
+
+}
+
+
+.work{
+  width:25%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+
+}
+.work img{
+  width: 100%;
+}
+.work-section{
+  background-image: url("image/latest-work-bg.png");
+  width: 100%;
+}
+
+.contact{
+  text-align: center;
+  position: relative;
+}
+
+.contact-section{
+  padding-top: 120px
+}
+
+
+.contact-button{
+ 
+  padding: 10px 95px;
+  background-color: #d81497;
+  color: white;
+  background-image: linear-gradient(45deg, tomato orange);
+  border-radius: 15px;
+  border: 0px;
+  margin-top: 20px;
+}
+
+.contact-section{
+  background-image: url("image/footer-bg.png");
+  background-repeat: no-repeat;
+  background-position: 25% 45%;
+}
+
+footer{
+  text-align: center;
+}
+
